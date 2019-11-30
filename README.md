@@ -13,7 +13,7 @@ Alice-60 is a fantasy consoles computer.
 30-bit of sound RAM
 
 ### Driver
-CEV/CEVI/GIS/NE/CEV2 drivers of VM
+CEV/CEVI/GIS/NE/CEV2 support drivers of VM
 
 ### Input
 Mouse/Keyboard/Screen of 3 inputs
