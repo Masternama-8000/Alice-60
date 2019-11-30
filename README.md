@@ -14,3 +14,21 @@ Alice-60 is a fantasy consoles computer.
 
 ### Driver
 CEV/CEVI/GIS/NE/CEV2 drivers of VM
+
+### Input
+Mouse/Keyboard/Screen of 3 inputs
+
+### Drive
+1-150 Drives of System drive
+
+### BIOS
+ECAH System BIOS of BIOS ROM
+
+### Waveform
+30-bit of Waveform RAM
+
+### Cartridge
+150 mb of cartridge size
+
+### Blanks
+20 blanks of memory blanks
